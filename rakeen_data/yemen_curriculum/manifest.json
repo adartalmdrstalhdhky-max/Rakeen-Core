@@ -1,0 +1,27 @@
+{
+  "project_name": "Rakeen - Yemen",
+  "country": "Yemen",
+  "curriculum_version": "2026.1",
+  "sync_engine": "Offline-First-Rakeen",
+  "levels": [
+    {
+      "id": "grade_1",
+      "name": "الصف الأول الابتدائي",
+      "subjects": [
+        {
+          "subject_id": "ar_01",
+          "name": "اللغة العربية",
+          "status": "ready_offline",
+          "ai_teacher_enabled": true
+        },
+        {
+          "subject_id": "ma_01",
+          "name": "الرياضيات",
+          "status": "ready_offline",
+          "ai_teacher_enabled": true
+        }
+      ]
+    }
+  ]
+}
+
